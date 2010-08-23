@@ -7,9 +7,9 @@ public class Location extends Point2f
 	/**
 	 * 
 	 */
-	public static float equalsDist = -1f; 
-	
 	private static final long serialVersionUID = -3030289780766304308L;
+	
+	public static float equalsDist = -1f; 
 	
 	boolean underground;
 	Nest nest;
